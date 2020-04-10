@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "Scan & Track",
+    "slug": "Scan_n_Track",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon2.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.aspardo.qrscanner",
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyC7NKvJUjpXKiixgHYOTxTKKW4qiH6PjM0"
+        }
+      },
+      "versionCode": 1
+    }
+  }
+}
