@@ -17,6 +17,8 @@ or
 
 `yarn install`
 
+
+![alt text](https://github.com/jithinsankar/Qurapatrol/blob/master/TrackME/Screenshots/QR%20Code.jpeg)
 ## Usage
 
 For those who have access to the Firebase console. Copy the configuration from there:
